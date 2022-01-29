@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508048518117",
+    "project_id": "infinite-scrolling-firebase",
+    "storage_bucket": "infinite-scrolling-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508048518117:android:7a269bf36403f558f55d0c",
+        "android_client_info": {
+          "package_name": "com.example.infinite_scrolling_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508048518117-uds2tepc5qeqn2n4f99v9rsg5b4rcnkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhX4jt1Nua6YrpqUylfW1t7nTU_W4c9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508048518117-uds2tepc5qeqn2n4f99v9rsg5b4rcnkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
